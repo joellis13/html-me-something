@@ -6,3 +6,27 @@ img {
     width: 225px;
 }
 
+footer {
+    text-align: center;
+}
+
+div {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: lightseagreen;
+}
+
+article {
+    border: solid;
+    padding: 30px;
+}
+
+#company {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#local {
+    font-weight: normal;
+    font-size: 15px;
+}
