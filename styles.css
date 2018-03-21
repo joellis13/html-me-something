@@ -26,7 +26,7 @@ article {
     font-style: italic;
 }
 
-#local {
+.local {
     font-weight: normal;
     font-size: 15px;
 }
